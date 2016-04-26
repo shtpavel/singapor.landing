@@ -92,6 +92,11 @@ h6 {
     letter-spacing: 2px;
 }
 
+.list-spec{
+    font-size: 18px;
+    font-weight: 400;
+}
+
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
